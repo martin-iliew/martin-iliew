@@ -15,11 +15,6 @@ I build scalable product UI by treating design systems as infrastructure: tokens
 > [!NOTE]
 > **Current focus:** MPEX Bank frontend monorepo — building shared packages (tokens, UI, utilities) and documenting them in Storybook for both web and mobile teams.
 
-## Table of contents
-- [Featured projects](#featured-projects)
-- [Stack](#stack)
-- [Stats](#stats)
-
 ## Featured projects
 
 <a href="https://github.com/martin-iliew/mpex-bank">
