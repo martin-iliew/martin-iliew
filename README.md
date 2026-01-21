@@ -1,21 +1,140 @@
-# Hello World! I'm Martin, a Web Developer and Designer👋:
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Delphi](https://img.shields.io/badge/delphi-F32735.svg?style=for-the-badge&logo=delphi&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<img width="2024" height="436" alt="image" src="https://github.com/user-attachments/assets/85c2cd1b-9b20-47e4-aea0-f712dbc19801" />
 
-🔭 I’m currently working on [Mpex](https://github.com/martin-iliew/mpex-bank)
+<p align="center">
+  <a href="https://martiniliev.dev">Portfolio</a> ·
+  <a href="https://linkedin.com/in/martin-iliew">LinkedIn</a> ·
+  <a href="mailto:contact@martiniliev.dev">Email</a>
+</p>
 
-<!--
-**martin-iliew/martin-iliew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About me
+I build scalable product UI by treating design systems as infrastructure: tokens, components, and tooling that keeps design and code in sync.
+- **Design tokens:** semantic layers, multi-mode (light/dark), OKLCH ramps, versioned outputs
+- **UI packages:** shared UI built to be reused, not copied — documented in Storybook
+- **Automation:** Figma variables → code generation + validation to prevent drift
 
-Here are some ideas to get you started:
+> [!NOTE]
+> **Current focus:** MPEX Bank frontend monorepo — building shared packages (tokens, UI, utilities) and documenting them in Storybook for both web and mobile teams.
 
-- 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Table of contents
+- [Featured projects](#featured-projects)
+- [Stack](#stack)
+- [Stats](#stats)
+
+## Featured projects
+
+<a href="https://github.com/martin-iliew/mpex-bank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=martin-iliew&amp;repo=mpex-bank&amp;title_color=F5F2ED&amp;text_color=F5F2ED&amp;icon_color=F5F2ED&amp;bg_color=1B1A17&amp;border_color=2A2621" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=martin-iliew&amp;repo=mpex-bank&amp;title_color=1A1A1A&amp;text_color=1A1A1A&amp;icon_color=1A1A1A&amp;bg_color=F5F2ED&amp;border_color=E7DED3" />
+    <img alt="mpex-bank"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=martin-iliew&amp;repo=mpex-bank&amp;title_color=1A1A1A&amp;text_color=1A1A1A&amp;icon_color=1A1A1A&amp;bg_color=F5F2ED&amp;border_color=E7DED3" />
+  </picture>
+</a>
+
+<br/>
+
+<a href="https://github.com/martin-iliew/laundry-commerce">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=martin-iliew&amp;repo=laundry-commerce&amp;title_color=F5F2ED&amp;text_color=F5F2ED&amp;icon_color=F5F2ED&amp;bg_color=1B1A17&amp;border_color=2A2621" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=martin-iliew&amp;repo=laundry-commerce&amp;title_color=1A1A1A&amp;text_color=1A1A1A&amp;icon_color=1A1A1A&amp;bg_color=F5F2ED&amp;border_color=E7DED3" />
+    <img alt="laundry-commerce"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=martin-iliew&amp;repo=laundry-commerce&amp;title_color=1A1A1A&amp;text_color=1A1A1A&amp;icon_color=1A1A1A&amp;bg_color=F5F2ED&amp;border_color=E7DED3" />
+  </picture>
+</a>
+
+<br/>
+
+<a href="https://github.com/martin-iliew/boardtschek">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=martin-iliew&amp;repo=boardtschek&amp;title_color=F5F2ED&amp;text_color=F5F2ED&amp;icon_color=F5F2ED&amp;bg_color=1B1A17&amp;border_color=2A2621" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=martin-iliew&amp;repo=boardtschek&amp;title_color=1A1A1A&amp;text_color=1A1A1A&amp;icon_color=1A1A1A&amp;bg_color=F5F2ED&amp;border_color=E7DED3" />
+    <img alt="boardtschek"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=martin-iliew&amp;repo=boardtschek&amp;title_color=1A1A1A&amp;text_color=1A1A1A&amp;icon_color=1A1A1A&amp;bg_color=F5F2ED&amp;border_color=E7DED3" />
+  </picture>
+</a>
+
+## Stack
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TypeScript-2A2621?style=for-the-badge&amp;logo=typescript&amp;logoColor=F5F2ED&amp;labelColor=1B1A17" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/TypeScript-E7DED3?style=for-the-badge&amp;logo=typescript&amp;logoColor=1A1A1A&amp;labelColor=F5F2ED" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-E7DED3?style=for-the-badge&amp;logo=typescript&amp;logoColor=1A1A1A&amp;labelColor=F5F2ED" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-2A2621?style=for-the-badge&amp;logo=javascript&amp;logoColor=F5F2ED&amp;labelColor=1B1A17" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/JavaScript-E7DED3?style=for-the-badge&amp;logo=javascript&amp;logoColor=1A1A1A&amp;labelColor=F5F2ED" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-E7DED3?style=for-the-badge&amp;logo=javascript&amp;logoColor=1A1A1A&amp;labelColor=F5F2ED" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React-2A2621?style=for-the-badge&amp;logo=react&amp;logoColor=F5F2ED&amp;labelColor=1B1A17" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/React-E7DED3?style=for-the-badge&amp;logo=react&amp;logoColor=1A1A1A&amp;labelColor=F5F2ED" />
+    <img alt="React" src="https://img.shields.io/badge/React-E7DED3?style=for-the-badge&amp;logo=react&amp;logoColor=1A1A1A&amp;labelColor=F5F2ED" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SvelteKit-2A2621?style=for-the-badge&amp;logo=svelte&amp;logoColor=F5F2ED&amp;labelColor=1B1A17" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/SvelteKit-E7DED3?style=for-the-badge&amp;logo=svelte&amp;logoColor=1A1A1A&amp;labelColor=F5F2ED" />
+    <img alt="SvelteKit" src="https://img.shields.io/badge/SvelteKit-E7DED3?style=for-the-badge&amp;logo=svelte&amp;logoColor=1A1A1A&amp;labelColor=F5F2ED" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Vite-2A2621?style=for-the-badge&amp;logo=vite&amp;logoColor=F5F2ED&amp;labelColor=1B1A17" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Vite-E7DED3?style=for-the-badge&amp;logo=vite&amp;logoColor=1A1A1A&amp;labelColor=F5F2ED" />
+    <img alt="Vite" src="https://img.shields.io/badge/Vite-E7DED3?style=for-the-badge&amp;logo=vite&amp;logoColor=1A1A1A&amp;labelColor=F5F2ED" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Turborepo-2A2621?style=for-the-badge&amp;logo=turborepo&amp;logoColor=F5F2ED&amp;labelColor=1B1A17" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Turborepo-E7DED3?style=for-the-badge&amp;logo=turborepo&amp;logoColor=1A1A1A&amp;labelColor=F5F2ED" />
+    <img alt="Turborepo" src="https://img.shields.io/badge/Turborepo-E7DED3?style=for-the-badge&amp;logo=turborepo&amp;logoColor=1A1A1A&amp;labelColor=F5F2ED" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Storybook-2A2621?style=for-the-badge&amp;logo=storybook&amp;logoColor=F5F2ED&amp;labelColor=1B1A17" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Storybook-E7DED3?style=for-the-badge&amp;logo=storybook&amp;logoColor=1A1A1A&amp;labelColor=F5F2ED" />
+    <img alt="Storybook" src="https://img.shields.io/badge/Storybook-E7DED3?style=for-the-badge&amp;logo=storybook&amp;logoColor=1A1A1A&amp;labelColor=F5F2ED" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TailwindCSS-2A2621?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=F5F2ED&amp;labelColor=1B1A17" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/TailwindCSS-E7DED3?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=1A1A1A&amp;labelColor=F5F2ED" />
+    <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-E7DED3?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=1A1A1A&amp;labelColor=F5F2ED" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Figma-2A2621?style=for-the-badge&amp;logo=figma&amp;logoColor=F5F2ED&amp;labelColor=1B1A17" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Figma-E7DED3?style=for-the-badge&amp;logo=figma&amp;logoColor=1A1A1A&amp;labelColor=F5F2ED" />
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-E7DED3?style=for-the-badge&amp;logo=figma&amp;logoColor=1A1A1A&amp;labelColor=F5F2ED" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Docker-2A2621?style=for-the-badge&amp;logo=docker&amp;logoColor=F5F2ED&amp;labelColor=1B1A17" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Docker-E7DED3?style=for-the-badge&amp;logo=docker&amp;logoColor=1A1A1A&amp;labelColor=F5F2ED" />
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-E7DED3?style=for-the-badge&amp;logo=docker&amp;logoColor=1A1A1A&amp;labelColor=F5F2ED" />
+  </picture>
+</p>
+
+## Stats
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=martin-iliew&amp;layout=compact&amp;hide_title=true&amp;bg_color=1B1A17&amp;title_color=F5F2ED&amp;text_color=F5F2ED&amp;border_color=2A2621"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=martin-iliew&amp;layout=compact&amp;hide_title=true&amp;bg_color=F5F2ED&amp;title_color=1A1A1A&amp;text_color=1A1A1A&amp;border_color=E7DED3"
+  />
+  <img
+    alt="Top languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin-iliew&amp;layout=compact&amp;hide_title=true&amp;bg_color=F5F2ED&amp;title_color=1A1A1A&amp;text_color=1A1A1A&amp;border_color=E7DED3"
+  />
+</picture>
